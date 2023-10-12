@@ -10,6 +10,14 @@ Thus avoiding potential naming conflicts.
 
 All components in the C++ standard library are located within the std namespace.
 
+#Adding comments to create a difference#
+
+cout  is an object of the ostream class --> standard output stream
+<< --> insertion operator
+
+iostream is an OO library that implements I/O operations
+
+
 
 */
 
